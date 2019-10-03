@@ -1,5 +1,18 @@
-body {text-align: center}
+h1#aaa{text-align: center}
 h1#aaa{color: blue}
-h1#ccc{color: tomato}
+h1#ccc{color: rgb(226, 211, 209)}
 h1#bbb{color: orange}
 h3{background:green ;padding:20px}
+div#qqq{ margin:auto;backgroun:rgb(74, 75, 148);width:800px;}
+h1#www{text-align: center;color: rgb(228, 22, 15)}
+h4#n{color:rgb(11, 47, 58)}
+h1#z{text-align: center;color: rgb(224, 12, 12)}
+h4#mmm{color: rgb(95, 12, 204)}
+h1#x{text-align: center;color: rgb(224, 12, 12)}
+h1#c{text-align: center;color: rgb(224, 12, 12)}
+h1#v{text-align: center;color: rgb(224, 12, 12)}
+h4#j{color: rgb(95, 12, 204)}
+h4#k{color: rgb(95, 12, 204)}
+h4#l{color: rgb(95, 12, 204)}
+img{margin:auto}
+h1#o{text-align-last: right;color: red}
